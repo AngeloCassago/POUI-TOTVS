@@ -1,0 +1,101 @@
+{
+	"version": "0.2.2",
+	"includes": [
+		""
+	],
+	"permissions": {
+		"authorizationtoken": ""
+	},
+	"connectedServer": {},
+	"configurations": [
+		{
+			"id": "22ohf79kpgtmltjbvwilbby1llm6jj",
+			"type": "totvs_server_protheus",
+			"name": "Protheus Local - Rest",
+			"port": 1235,
+			"address": "http://127.0.0.1",
+			"buildVersion": "7.00.240223P",
+			"secure": true,
+			"includes": [
+				"C:\\Users\\Dell\\Documents\\GitHub\\Pessoal\\POUI-TOTVS\\Exemplo_Terminal_Informacao\\includes\\Includes_PADRAO",
+				"C:\\Users\\Dell\\Documents\\GitHub\\Pessoal\\POUI-TOTVS\\Exemplo_Terminal_Informacao\\includes\\Includes_TLPP"
+			],
+			"environments": [
+				"rest"
+			],
+			"environment": "rest",
+			"token": "djM6MjJvaGY3OWtwZ3RtbHRqYnZ3aWxiYnkxbGxtNmpqOjE6aHR0cCMvLzEyNy4wLjAuMToxMjM1OjE6Ny4wMC4yNDAyMjNQOjM=:djE6cmVzdDphbmdlbG86MytDc0Y0U2ZDbFlwZVZOYWFUTWdvZXhkWjJsNFczVFA0OCtFY1hZRlo0Yz0=|djI6MTc3MjQ3OTk0ODowOjE6MQ==.mjz7b5e7H0RnGVPUZc6MqxFiaX4aqVR0/vc7xvuMfQY6FEQvtv50igDwIOHpHv9s8vTXIUg9nD5yDyOO7L9WjlISr0PC4i1sMELpvDDzdm+q8U/NqQl97VHRIoTsCZASDDV47yZ4TJzaWA9ulQxjk0WSP24Y6MjCbWVFxlszaQ9FwI7IcomTrlz66Or+JxChT9uJMTm2FI/69SCbhI3T9lJMFK+NqGbHBbgkx6w00ph4Xb2cSkGQ0t5X7i6PH9x8x83TojC1yz3lWDKiQT/d8SlFuR69YXvyc5PbhvEnEloTOZwn4kF988FIBU6LTOwHsZmHedxHYn39yQH+AgxULw==",
+			"informations": {
+				"permissions": [],
+				"errorMessage": "",
+				"environmentDetectedType": "totvs_server_protheus",
+				"serverDetectedType": "totvs_server_protheus"
+			},
+			"username": "angelo"
+		},
+		{
+			"id": "avmi701e26amltv6wgqjp35t9oiqi",
+			"type": "totvs_server_protheus",
+			"name": "Protheus Local",
+			"port": 1234,
+			"address": "localhost",
+			"buildVersion": "7.00.240223P",
+			"secure": true,
+			"includes": [
+				"C:\\Users\\Dell\\Documents\\GitHub\\Pessoal\\POUI-TOTVS\\Exemplo_Terminal_Informacao\\includes\\Includes_PADRAO",
+				"C:\\Users\\Dell\\Documents\\GitHub\\Pessoal\\POUI-TOTVS\\Exemplo_Terminal_Informacao\\includes\\Includes_TLPP"
+			],
+			"environments": [
+				"environment",
+				"env_path"
+			],
+			"username": "angelo",
+			"environment": "env_path",
+			"token": "djM6YXZtaTcwMWUyNmFtbHR2NndncWpwMzV0OW9pcWk6MTpsb2NhbGhvc3Q6MTIzNDoxOjcuMDAuMjQwMjIzUDoz:djE6ZW52X3BhdGg6YW5nZWxvOk5xY2RpcmtrOFBmNGVVMFRyN3JQckMvUjdSU215R0VsY0JLVFZmTHRjWVU9|djI6MTc3MjQ4MTEwMzowOjE6MQ==.0hU3fSsmqvQ3AwKuy1T577GUJ1WrIIJsSotcLWDdaTIJff4+hyB40JiEcoE32P/XZrBgV4sNHG29WLsljihriu5btB0nZGsUIj4V7Kiyho+CAzC7zA4MiWt/HpEtwcSh7b752X9XNSVC0ypdhaEGASlFa2wB7Uhb/xrTp6l8cgCJ8Z+ybcrC4RYmS/CH4dejDIea57Oj7BL138CElk3ZFG42nC572iY9EJfjqgrTIHua5OWWM9Y3jT+rqNzjYkR0tWdISDc0RYakadIGhvbxi+XG0Z/kLVGZtHmOuz/uj9niNtAl1AMWGCcvmiNDnhS19/EiTKK8NihC4G9ZrdayGQ==",
+			"informations": {
+				"permissions": [],
+				"errorMessage": "",
+				"environmentDetectedType": "totvs_server_protheus",
+				"serverDetectedType": "totvs_server_protheus"
+			}
+		}
+	],
+	"savedTokens": [
+		[
+			"wzsq44rl10emltj5ut8sk7mktytjpq:angelo",
+			{
+				"id": "wzsq44rl10emltj5ut8sk7mktytjpq",
+				"token": "djM6d3pzcTQ0cmwxMGVtbHRqNXV0OHNrN21rdHl0anBxOjE6aHR0cCMvLzEyNy4wLjAuMTo0MzIxOjA6Ny4wMC4yNDAyMjNQOjM=:djE6YW5nZWxvOm5vdXNlcjpJQWxqcVBUdXJkQXJxZ2w5WHAzZVdwU1Z3cmNJRWRjVTMwTzNFL1VmUDBrPQ==|djI6MTc3MTUwOTc1NDoyOjE6MA==.cfVyjQea54Wt7vczBGa3a24dDOhMHjyJcZNV/Jk30+A52VdmXoL6gJdeN0zJTFWe3jmz2RbWkVvfv2kJmHRbLlNLuGimP0SH+Hl4xkgfPmpaZ3NeOQQHEEUYrwCAb0XlTye5Inzmcb/uiyFnQ1CmpFV5ds8ZdsYeotZWjAiCUewo+xe+tKFiQUCSq64Zc9FPFlKgAGK1xfNy2oOpgkK8a8w3SrdSBx25Cq3Zth6k3EUb/irE/mS4bge3F3dZY5r5vfxsjZ8bp8Z9Ybix6xS3HS27LrnlYuZ29Wfu1lViJpZarXjbpzrq3d6ObLjQaOMBKM8ImFdHSv2fh3+I3KBX5Q=="
+			}
+		],
+		[
+			"wzsq44rl10emltj5ut8sk7mktytjpq:ENVIRONMENT",
+			{
+				"id": "wzsq44rl10emltj5ut8sk7mktytjpq",
+				"token": "djM6d3pzcTQ0cmwxMGVtbHRqNXV0OHNrN21rdHl0anBxOjE6aHR0cCMvLzEyNy4wLjAuMTo0MzIxOjA6Ny4wMC4yNDAyMjNQOjM=:djE6RU5WSVJPTk1FTlQ6YW5nZWxvOmovTGFIaHByRGxPSU9LcXhkeWswc3JDdGtnWWVGaUhyVElPNms3WUNOVzg9|djI6MTc3MTUyOTc0MTowOjE6MQ==.ET3j58Ami7QuJtAyArIped7Z2EpaGC9WfxONrNUM1RlTw5qwnVuyzRz6o1+IRw28FdQXonXNEe6qtmrnW5ZQX568dCz0qZ92pDHYPj84QP3NL9PNGc5MV02ZYydjausnlXXs1rm6OoPgxZJCGE6ppqdBO/UrxHYOFpu0ePhz0hDJ2RMaq3s1wt9kd6pKqeuDkAgDvFbeLAKez0fI1dEUzIwVeVideJXOkFv7qJpFBwF0/CrD/hbrp8KDve/qQIfgLd6d4YUre4/iBKUeBG2zzuwl4A4dzrs4/oggxSWbd/FmJav3erlNIGeP+/8KKYnMZKpmR2F1FBHufBTGPRMp4A=="
+			}
+		],
+		[
+			"22ohf79kpgtmltjbvwilbby1llm6jj:rest",
+			{
+				"id": "22ohf79kpgtmltjbvwilbby1llm6jj",
+				"token": "djM6MjJvaGY3OWtwZ3RtbHRqYnZ3aWxiYnkxbGxtNmpqOjE6aHR0cCMvLzEyNy4wLjAuMToxMjM1OjE6Ny4wMC4yNDAyMjNQOjM=:djE6cmVzdDphbmdlbG86MytDc0Y0U2ZDbFlwZVZOYWFUTWdvZXhkWjJsNFczVFA0OCtFY1hZRlo0Yz0=|djI6MTc3MjQ3OTk0ODowOjE6MQ==.mjz7b5e7H0RnGVPUZc6MqxFiaX4aqVR0/vc7xvuMfQY6FEQvtv50igDwIOHpHv9s8vTXIUg9nD5yDyOO7L9WjlISr0PC4i1sMELpvDDzdm+q8U/NqQl97VHRIoTsCZASDDV47yZ4TJzaWA9ulQxjk0WSP24Y6MjCbWVFxlszaQ9FwI7IcomTrlz66Or+JxChT9uJMTm2FI/69SCbhI3T9lJMFK+NqGbHBbgkx6w00ph4Xb2cSkGQ0t5X7i6PH9x8x83TojC1yz3lWDKiQT/d8SlFuR69YXvyc5PbhvEnEloTOZwn4kF988FIBU6LTOwHsZmHedxHYn39yQH+AgxULw=="
+			}
+		],
+		[
+			"avmi701e26amltv6wgqjp35t9oiqi:environment",
+			{
+				"id": "avmi701e26amltv6wgqjp35t9oiqi",
+				"token": "djM6YXZtaTcwMWUyNmFtbHR2NndncWpwMzV0OW9pcWk6MTpsb2NhbGhvc3Q6MTIzNDoxOjcuMDAuMjQwMjIzUDoz:djE6ZW52aXJvbm1lbnQ6YW5nZWxvOkM0VlErU0I4K0lXeVgxUTRPOVdMQkdwM20yb0xxKzNKNTVWcXVjeHcxc2M9|djI6MTc3MjQ4MTAyODowOjE6MQ==.l6SHD9Ll9+DilPPCGbnDdRbvbPUyFThtyfx3bJPvOduAnCJQ7Y4Nec2giDGPdsnLTvIckMVzLzKX71s/sDocStSiO38O4Q6tfU0ORyC/kcj+D1en8NHN7fsGHl22X64GqWtTpJG3Yj5cQfv4F68p+oWwK9s6q9eWZ040AIFMjmDSoEaSEZN+qn1OygwnQQBvFvOj+bpZAsK6c3dIErtY4g/AyEAmW2zHzqOI6XNTby24e1LmvQDNVpnHdtt4630hoqGJF1v/km/dZUqvtmyMWXoJqPCxXKYCTGvpiJJNK8pac5vWxGxl7y+r71ytAR+TeDpLTAfsr6elPQg6l+qmYQ=="
+			}
+		],
+		[
+			"avmi701e26amltv6wgqjp35t9oiqi:env_path",
+			{
+				"id": "avmi701e26amltv6wgqjp35t9oiqi",
+				"token": "djM6YXZtaTcwMWUyNmFtbHR2NndncWpwMzV0OW9pcWk6MTpsb2NhbGhvc3Q6MTIzNDoxOjcuMDAuMjQwMjIzUDoz:djE6ZW52X3BhdGg6YW5nZWxvOk5xY2RpcmtrOFBmNGVVMFRyN3JQckMvUjdSU215R0VsY0JLVFZmTHRjWVU9|djI6MTc3MjQ4MTEwMzowOjE6MQ==.0hU3fSsmqvQ3AwKuy1T577GUJ1WrIIJsSotcLWDdaTIJff4+hyB40JiEcoE32P/XZrBgV4sNHG29WLsljihriu5btB0nZGsUIj4V7Kiyho+CAzC7zA4MiWt/HpEtwcSh7b752X9XNSVC0ypdhaEGASlFa2wB7Uhb/xrTp6l8cgCJ8Z+ybcrC4RYmS/CH4dejDIea57Oj7BL138CElk3ZFG42nC572iY9EJfjqgrTIHua5OWWM9Y3jT+rqNzjYkR0tWdISDc0RYakadIGhvbxi+XG0Z/kLVGZtHmOuz/uj9niNtAl1AMWGCcvmiNDnhS19/EiTKK8NihC4G9ZrdayGQ=="
+			}
+		]
+	],
+	"lastConnectedServer": "avmi701e26amltv6wgqjp35t9oiqi"
+}
